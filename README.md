@@ -1,2 +1,12 @@
-"# Git-and-Github" 
-"# Git-and-Github" 
+"# Git-and-GitHub" 
+"# Git-and-GitHub practice " 
+      Definition:
+              GitHub is used to manage our code and projects in a great manner.
+
+      install git
+
+       Then we have to run and configure it global
+
+       then we have to run commands 
+        I learn git and GitHub from this video of Sir Muhammad Umair Ahmad( (https://youtu.be/Stj0P5zSwcg ))
+       
