@@ -15,5 +15,9 @@
         git commit -m "your msg"
         git remote add origin link_of_your_repo
         git push origin main
+        git status
+        git branch
+        git branch -M master/main
+        
        
         
