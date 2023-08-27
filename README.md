@@ -9,4 +9,8 @@
 
        then we have to run commands 
         I learn git and GitHub from this video of Sir Muhammad Umair Ahmad( (https://youtu.be/Stj0P5zSwcg ))
-       
+        following are the most useful commands:
+        git init
+        git add .
+        git commit -m "your msg"
+        
