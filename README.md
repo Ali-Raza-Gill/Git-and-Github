@@ -13,4 +13,7 @@
         git init
         git add .
         git commit -m "your msg"
+        git remote add origin link_of_your_repo
+        git push origin main
+       
         
