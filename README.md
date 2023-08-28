@@ -3,6 +3,8 @@
       Definition:
               GitHub is used to manage our code and projects in a great manner.
 
+      
+      First of all
       install git
 
        Then we have to run and configure it global
