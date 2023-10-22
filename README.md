@@ -5,6 +5,7 @@
 
       
       First of all
+      
       install git
 
        Then we have to run and configure it global
